@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="42cde807-9c77-40b6-a827-d7413b24880d" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1bzCSHpxQwBkxzFhN4CcTgOsufY" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../xmlFotos" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CRUDrubentabaradam11\includes" />
+      <recent name="C:\xampp\htdocs\CRUDrubentabaradam11" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\CRUDrubentabaradam11\modelo" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42cde807-9c77-40b6-a827-d7413b24880d" name="Default Changelist" comment="" />
+      <created>1589625532520</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1589625532520</updated>
+      <workItem from="1589625533698" duration="9226000" />
+      <workItem from="1589707746272" duration="4304000" />
+      <workItem from="1589712206062" duration="6847000" />
+      <workItem from="1589722192816" duration="104000" />
+      <workItem from="1589722308304" duration="497000" />
+      <workItem from="1589722815835" duration="7949000" />
+      <workItem from="1590328710107" duration="60000" />
+      <workItem from="1590329546965" duration="24000" />
+      <workItem from="1590493799072" duration="1516000" />
+      <workItem from="1590654575790" duration="7734000" />
+      <workItem from="1590736479305" duration="21000" />
+      <workItem from="1590826535837" duration="29934000" />
+      <workItem from="1590870904147" duration="4944000" />
+      <workItem from="1590914406870" duration="8862000" />
+      <workItem from="1590938821766" duration="16257000" />
+      <workItem from="1591082221113" duration="37000" />
+      <workItem from="1591082692852" duration="25000" />
+      <workItem from="1591098062154" duration="311000" />
+      <workItem from="1591099111521" duration="7000" />
+      <workItem from="1591348992304" duration="2454000" />
+      <workItem from="1591436320006" duration="10000" />
+      <workItem from="1591450800661" duration="1170000" />
+      <workItem from="1601892120922" duration="13000" />
+      <workItem from="1606741062779" duration="273000" />
+      <workItem from="1610886437353" duration="1224000" />
+      <workItem from="1610906325433" duration="3536000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
